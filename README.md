@@ -1,4 +1,15 @@
 # Tesla-Turbine-Flow-Simulation
+
+<style>
+table:nth-of-type(1) {
+    display:table;
+    width:100%;
+}
+table:nth-of-type(1) th:nth-of-type(2) {
+    width:10%;
+}
+</style>
+
 Flow simulation analysis of a volute-cased tesla turbine running at different rpm and inlet flow parameters
 
 

@@ -2,7 +2,7 @@
 Flow simulation analysis of a volute-cased tesla turbine running at different rpm and inlet flow parameters
 
 
-|Files| subFiles | Descriptions |
+| Files | subFiles | Descriptions |
 |  | :---: | :---: |
 | codeFiles | teslaModel1 | First tesla model code draft |
 |  | teslaModel2 | Second tesla model code draft |

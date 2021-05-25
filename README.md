@@ -4,7 +4,7 @@ Flow simulation analysis of a volute-cased tesla turbine running at different rp
 
 
 | Files | subFiles | Descriptions |
-| - | :---: | :---: |
+| :---: | :---: | :---: |
 | codeFiles | teslaModel1 | First tesla model code draft |
 |  | teslaModel2 | Second tesla model code draft |
 |  | teslaModel3 | Final tesla model codebase, inclusive of numerical simulation structures |
